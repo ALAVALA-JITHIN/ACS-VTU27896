@@ -1,6 +1,6 @@
 import java.util.Stack;
 
-public class implementqueueusingstack{
+public class MyQUEUE{
 
     Stack<Integer> input = new Stack<>();
     Stack<Integer> output = new Stack<>();
